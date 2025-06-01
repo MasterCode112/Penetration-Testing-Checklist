@@ -324,4 +324,4 @@ These are gamified or community-driven platforms for broader pentesting practice
 - **Community Resources**: Engage with communities on Hack The Box, TryHackMe, or Hellbound Hackers for tips and collaboration.
 
 
-## Contact = 0765458977/dvdgodbless111@gmail.com
+## Contact = Removed
